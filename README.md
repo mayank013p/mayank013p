@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Mayank Aitan, a passionate full-stack developer with real-world experience in building scalable web and mobile apps. I’ve interned at companies like Zordial Technologies, Unity Consultancy Services, and CodeUp, where I worked on live projects using Java, Node.js, React, Spring Boot, and PostgreSQL.<br><br>I founded MintCode Club, where I organize coding events and build AI-powered solutions. I was a finalist in Code Red 3.0 Hackathon and also served as a GeeksforGeeks campus ambassador, promoting tech culture and community learning. I enjoy working in collaborative teams that push for innovation and performance.
 
 
